@@ -1,6 +1,6 @@
 ### DYNAMIC PROGRAMMING  ###
 Using the technique of 'memoization' and 'tabulation' as a part of Dynamic Programming paradygm to 
-solve a few the following programming problems listed below:
+solve a few the following programming problems (using javascript) listed below:
 1. Fibonacci
 2. Grid Traveler
 3. canSum
